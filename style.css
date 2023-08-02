@@ -1,0 +1,82 @@
+* {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+.hero-heading {
+    color: rgba(239, 121, 12, 1);
+    border: 1.5px solid;
+}
+
+h5 {
+    font-size: 38px !important;
+    font-weight: 300 !important;
+}
+
+.btn-primary {
+    background: rgba(239, 121, 12, 1) !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+
+.btn-light {
+    color: rgba(239, 121, 12, 1) !important;
+    border: 1px solid rgba(239, 121, 12, 1) !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+}
+
+.secondheading {
+    color: rgba(239, 121, 12, 1) !important;
+}
+
+h4 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+h5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.li-bold{
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+li{
+    list-style: none;
+}
+
+.orange {
+    color: rgba(239, 121, 12, 1) !important;
+}
+
+.transform hr {
+    transform: rotate(90deg);
+    border: 1px solid black !important;
+    width: 48px !important;
+    height: 0px !important;
+    font-weight: bolder !important;
+}
+
+.bg-second-color{
+    background-color:rgba(239, 121, 12, 0.08);
+}
+.size-12{
+    font-size: 12px;
+}
+.size-24{
+font-size: 24px;
+font-weight: 500;
+}
+
+
